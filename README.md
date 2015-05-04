@@ -4,4 +4,6 @@ Based on a Cypress prototyping kit CY8CKIT-059 http://www.cypress.com/?rid=10803
 
 Based on ROSSerial https://github.com/ros-drivers/rosserial
 
+Ported from a similar PSoC4 project http://wiki.jigren.org/index.php?title=RosOnAStick
+
 A work in progress
